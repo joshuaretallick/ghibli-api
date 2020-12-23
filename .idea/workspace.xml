@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22bc6204-dcee-4b43-a42c-a7adc346fdb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608718290586</updated>
       <workItem from="1608718295473" duration="58000" />
-      <workItem from="1608718355816" duration="940000" />
+      <workItem from="1608718355816" duration="1760000" />
     </task>
     <task id="LOCAL-00001" summary="Updated README with tutorial link">
       <created>1608718379983</created>
@@ -55,7 +53,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608718379983</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Connected APIto Ghibli">
+      <created>1608719414707</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608719414707</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Connected API to Ghibli">
+      <created>1608719424996</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608719424996</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,6 +86,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated README with tutorial link" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated README with tutorial link" />
+    <MESSAGE value="Connected APIto Ghibli" />
+    <MESSAGE value="Connected API to Ghibli" />
+    <option name="LAST_COMMIT_MESSAGE" value="Connected API to Ghibli" />
   </component>
 </project>
