@@ -1,6 +1,13 @@
-# ghibli-api
-https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/
+## ghibli-api
+ 
+A simple app that demonstrates connecting a JavaScript app to an API but with the added addition of some lovely Studio Ghibli characters and CSS styling!
 
-View here:
+### Sources 
+ - [This](https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/) super interesting walkthrough on API requests in JS 
 
-http://joshuaretallick.co.uk/ghibli-api/
+### Lessons learned
+- Working with Single Page JS Apps
+- API calls and protocol, plus understanding JSON data
+
+
+
